@@ -1,6 +1,6 @@
 # CT526-Phuwasit-EX02
-
-ให้นักศึกษานำ Assignment ทีแ่ล้วมาขึ้น Repo ใหม่ โดยให้
+##
+ให้นักศึกษานำ Assignment ทีแ่ล้วมาขึ้น Repo ใหม่ โดยให้##
     1)  ทำให้สามารถเปิด web จาก host ใดๆ ก็ได้
     2)  เพิ่ม path /sum/xx/yy   แล้วแสดงหน้าเว็บเป็น   "The result of sum between xx and yy is zz"   เมื่อ zz = xx+yy  เช่น xx=12 และ yy=3  ดังนั้น zz=15
     3)  เพิ่ม path /concat/xx/yy   แล้วแสดงหน้าเว็บเป็น   "The result of cancatenate between xx and yy is xxyy"    เช่น xx=12 และ yy=3  ดังนั้น xxyy=123
